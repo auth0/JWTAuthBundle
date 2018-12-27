@@ -2,6 +2,11 @@
 
 JWT Authentication bundle for Symfony
 
+## Important
+
+v2.x.x provides compatibility with Symfony 3
+
+for Symfony 2.x, stick to v1 branch
 
 ##Demo
 

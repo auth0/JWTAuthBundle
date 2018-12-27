@@ -1,5 +1,26 @@
 # Change Log
 
+## [2.0.0](https://github.com/auth0/jwt-auth-bundle/tree/2.0.0) (2016-01-29)
+[Full Changelog](https://github.com/auth0/jwt-auth-bundle/compare/1.2.8...2.0.0)
+
+**Closed issues:**
+
+- Symfony 3.0 Upgrade [\#24](https://github.com/auth0/jwt-auth-bundle/issues/24)
+- ... but is not mandatory [\#20](https://github.com/auth0/jwt-auth-bundle/issues/20)
+
+**Merged pull requests:**
+
+- Symfony 3 [\#26](https://github.com/auth0/jwt-auth-bundle/pull/26) ([glena](https://github.com/glena))
+- Symfony 3.0 Changes [\#25](https://github.com/auth0/jwt-auth-bundle/pull/25) ([frodosghost](https://github.com/frodosghost))
+
+## [1.2.8](https://github.com/auth0/jwt-auth-bundle/tree/1.2.8) (2016-01-29)
+[Full Changelog](https://github.com/auth0/jwt-auth-bundle/compare/1.2.7...1.2.8)
+
+**Merged pull requests:**
+
+- Fix YML sintax [\#23](https://github.com/auth0/jwt-auth-bundle/pull/23) ([glena](https://github.com/glena))
+- YAML files that use double quotes need to escape backslashes [\#22](https://github.com/auth0/jwt-auth-bundle/pull/22) ([frodosghost](https://github.com/frodosghost))
+
 ## [1.2.7](https://github.com/auth0/jwt-auth-bundle/tree/1.2.7) (2016-01-18)
 [Full Changelog](https://github.com/auth0/jwt-auth-bundle/compare/1.2.6...1.2.7)
 

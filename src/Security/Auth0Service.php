@@ -44,6 +44,6 @@ class Auth0Service {
      */
     public function decodeJWT($encToken)
     {
-        return Auth0JWT::decode($encToken, $this->client_id, $this->client_secret, $this->secret_base64_encoded);
+        return Auth0JWT::decode($encToken, $this->client_id, $this->client_secret);
     }
 }
